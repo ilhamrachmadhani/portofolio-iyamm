@@ -186,7 +186,7 @@ function App() {
               <div className="p-6">
                 <h3 className="text-xl font-bold mb-2">Portfolio Website</h3>
                 <p className="text-gray-400 mb-4">My personal portfolio website built with React and Tailwind CSS</p>
-                <a href="#" className="text-blue-400 hover:text-blue-300">View Project →</a>
+                <a href="https://github.com/ilhamrachmadhani/portofolio-iyamm" className="text-blue-400 hover:text-blue-300">View Project →</a>
               </div>
             </div>
           </div>
